@@ -1,2 +1,0 @@
-# template
-rust template
