@@ -1,12 +1,10 @@
-Rust Template
+# Rust Project Template
 
-```bash
-cargo generate zebsme/template
-```
+A modern Rust project template with built-in development tools and quality assurance checks.
 
-- pre-commit: identify simple issues before submissions.
-- cargo deny: dependency checker 
+## Features
 
-- typos: spell check
-- git cliff: generate changelog
-- cargo nextest
+- ✨ Pre-commit hooks for code quality
+- 🔍 Dependency checking with cargo-deny
+- 📝 Automated spell checking
+- 📋 Changelog generation
